@@ -1,6 +1,6 @@
 {
   "name": "random-language-generator",
-  "version": "1.0.0",
+  "version": "1.0.9",
   "description": "A package to randomly generate any language all over the world",
   "main": "index.js",
   "scripts": {
